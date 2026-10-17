@@ -7,7 +7,6 @@
 **Run it**
 ```bash
 pip install -r requirements.txt
-# put "Online Retail.xlsx" (UCI Online Retail dataset) in data/raw/
 mkdir -p data/raw   # on Windows: mkdir data\raw
 #download "Online Retail.xlsx" (UCI Online Retail dataset) into data/raw/
 python src/load_data.py
