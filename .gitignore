@@ -1,0 +1,14 @@
+# Data and database (rebuildable)
+data/raw/
+data/processed/
+
+# Scratch work
+sql/scratch.sql
+notebooks/02_churn_analysis_clean.ipynb
+
+# Python and Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+.vscode/
